@@ -1,5 +1,4 @@
-// Original JavaScript code by Chirp Internet: www.chirp.com.au
-// Please acknowledge use of this code by including this header.
+// adapted from original JavaScript code by Chirp Internet: www.chirp.com.au
 
 function NewHilitor(id) {
 
